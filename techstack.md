@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 steveny2k/newbee-mall-manage is built on the following main stack:
+
 - [Java](https://www.java.com) – Languages
 - [MySQL](http://www.mysql.com) – Databases
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -10,11 +11,13 @@ steveny2k/newbee-mall-manage is built on the following main stack:
 - [MyBatis](http://www.mybatis.org/mybatis-3/) – Object Relational Mapper (ORM)
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 steveny2k/newbee-mall-manage is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1025/logo-mysql-170x170.png' alt='MySQL'/> [MySQL](http://www.mysql.com) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -23,14 +26,15 @@ steveny2k/newbee-mall-manage is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/5582/1483254.png' alt='MyBatis'/> [MyBatis](http://www.mybatis.org/mybatis-3/) – Object Relational Mapper (ORM)
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [steveny2k/newbee-mall-manage](https://github.com/steveny2k/newbee-mall-manage)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|8<br/>Tools used|11/10/23 <br/>Report generated|
+|8<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -126,4 +130,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
